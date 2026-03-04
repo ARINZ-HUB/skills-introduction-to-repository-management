@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ARINZ-HUB
+/src/backend/database.py      @ARINZ-HUB
+/src/backend/routers/auth.py  @ARINZ-HUB
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ARINZ-HUB
